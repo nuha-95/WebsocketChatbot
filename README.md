@@ -14,7 +14,7 @@ A real-time chat application built with FastAPI and WebSockets.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/WebsocketChatbot.git
+git clone https://github.com/nuha-95/WebsocketChatbot.git
 cd WebsocketChatbot
 ```
 
